@@ -2,6 +2,6 @@
 
 博客名称：linkyneo's TinyMind Blog
 
-博客简介：一个简单的用 TinyMind 在 Github 上搭建的博客访问链接：
+博客简介：一个简单的用 TinyMind 在 Github 上搭建的博客
 
-https://tinymind.me/linkyneo
+访问链接：https://tinymind.me/linkyneo
