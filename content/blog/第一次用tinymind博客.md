@@ -4,8 +4,8 @@ date: 2025-12-23T04:45:53.051Z
 ---
 
 
-![黑客帝国 数字流.jpg](https://raw.githubusercontent.com/linkyneo/tinymind-blog/main/assets/images/2025-12-23/1766492314569.jpg)
 
 方法真得很简单，就是图片上传能不占空间吗？
 
-![obsidian_image.png](https://raw.githubusercontent.com/linkyneo/tinymind-blog/main/assets/images/2025-12-23/1766467588791.png)
+
+![黑客帝国 屏保.gif](https://raw.githubusercontent.com/linkyneo/tinymind-blog/main/assets/images/2026-01-04/1767487911794.gif)
